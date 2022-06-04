@@ -1,4 +1,4 @@
-# daywork
+# fitness app
 
 A new Flutter project.
 
